@@ -246,7 +246,7 @@ The main goal is to collect classical and solid works of image retrieval in acad
 - [yisou](https://yisou.yuanbin.me/), A flask-based painting cbir system, the search algorithm is designed by [Yong Yuan](http://yongyuan.name/).
 
 ## Datasets
-
+- [University-1652](https://github.com/layumi/University1652-Baseline), University-1652 is a Multi-view Multi-source Benchmark for Drone-based Geo-localization, containing 1652 buildings of 72 universities. The task is designed for cross-platform image retrieval.
 - [DeepFashion2 Dataset](https://github.com/switchablenorms/DeepFashion2), DeepFashion2 is a comprehensive fashion dataset.
 - [Holidays](https://rd.springer.com/chapter/10.1007/978-3-540-88682-2_24), Holidays consists images from personal holiday albums of various scene types.
 - [Oxford](https://ieeexplore.ieee.org/document/4270197), Oxford consists of 11 different Oxford landmarks.
